@@ -260,3 +260,14 @@
 	.cn-slide nav a{
 		font-size: 38px;
 	}
+@media screen and (min-height: 900px) {
+	.cn-slide nav a {
+		line-height: 160px;
+	}
+}
+
+@media screen and (min-height: 1500px) {
+	.cn-slide nav a {
+		line-height: 250px;
+	}
+}
