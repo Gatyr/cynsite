@@ -4,7 +4,7 @@
 	max-width: 820px;
 	height: 90%;
 	min-height: 500px;
-	max-height: 900px;
+	max-height: 700px;
 	margin: 10px auto 0 auto;
 	text-align: left;
 	position: relative;
@@ -33,6 +33,37 @@
 	transition: all 0.5s linear 0.7s;
 }
 .cn-container .cn-slide:target h2 {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+.cn-container h4 {
+	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	color: #707070;
+	position: absolute;
+	z-index: 10000;
+	text-shadow: 0 0 1px rgba(255, 255, 255, 0.8), 1px 1px 1px rgba(0,0,0,0.2);
+	font-size: 40px;
+	line-height: 40px;
+	top: 30px;
+	right: 0px;
+	white-space: nowrap;
+	opacity: 0.5;
+	transform: scale(0);
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	-webkit-transition: all 0.5s linear 0.7s;
+	-moz-transition: all 0.5s linear 0.7s;
+	-o-transition: all 0.5s linear 0.7s;
+	-ms-transition: all 0.5s linear 0.7s;
+	transition: all 0.5s linear 0.7s;
+}
+.cn-container .cn-slide:target h4 {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
