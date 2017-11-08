@@ -209,22 +209,22 @@
 #about-content {
 	background-image: url(../images/6.png);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size: cover;
 }
 #offers-content {
 	background-image: url(../images/9.png);
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size: cover;
 }
 #rates-content {
 	background-image: url(../images/11.png);
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size: cover;
 }
 #testimonials-content {
 	background-image: url(../images/8.png);
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size: cover;
 }
 #rover-link {
 	position: absolute;
