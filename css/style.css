@@ -195,13 +195,13 @@
 	opacity: 1;
 }
 .cn-slide nav a[href="#about"]{
-	background-image: url(../images/1.png);
+	background-image: url(../images/7.png);
 }
 .cn-slide nav a[href="#offers"]{
-	background-image: url(../images/2.png);
+	background-image: url(../images/11.png);
 }
 .cn-slide nav a[href="#rates"]{
-	background-image: url(../images/3.png);
+	background-image: url(../images/5.png);
 }
 .cn-slide nav a[href="#testimonials"]{
 	background-image: url(../images/4.png);
@@ -219,10 +219,10 @@
 	background-position: center center;
 }
 #rates-content {
-	background-image: url(../images/11.png);
+	background-image: url(../images/2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-position: top center;
 }
 #testimonials-content {
 	background-image: url(../images/8.png);
