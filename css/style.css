@@ -210,21 +210,25 @@
 	background-image: url(../images/6.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center center;
 }
 #offers-content {
 	background-image: url(../images/9.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center center;
 }
 #rates-content {
 	background-image: url(../images/11.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center center;
 }
 #testimonials-content {
 	background-image: url(../images/8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center center;
 }
 #rover-link {
 	position: absolute;
